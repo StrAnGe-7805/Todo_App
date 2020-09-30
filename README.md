@@ -37,6 +37,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## About
+
+This is a Todo app. It is a single window app used to organise your activities and moniter them.
+
+## Development Tools
+
+Developed using __*React.js*__ framework.
+
+## Layout of the App
+
+![App Layout](/images/layout.png)
+
+## Functionality
+
+  - Using this app one can add their activities to the app and moniter them.
+  - The activities can be checked completed , Edited and Deleted using the buttons in every task.
+  - This app can also stores the date and time of your activities.
+  - Tasks can be viewed in 3 categories "all" , "completed" , "uncompleted". These categories can be toggled using the select button located beside the add button.
+  - All the data get stored in the local storage of the browser, So data won't get lost even if the page is refreshed.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
